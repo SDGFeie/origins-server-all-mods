@@ -1,2 +1,1 @@
-# origins server all mods
-Just all the mods for my origins server
+This project is licensed for viewing and downloading only. Modification, redistribution, or commercial use is strictly prohibited.
